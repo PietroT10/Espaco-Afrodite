@@ -1,0 +1,52 @@
+body {
+    background-image: url(/img/Logo.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    
+}
+
+.menu {
+    display: flex;
+    gap: 16px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    color:#fff;
+    text-decoration: none;
+    
+}
+a {
+    text-decoration: none;
+}
+.comochegar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.comochegarimg {
+    display: flex;
+    justify-content: center;
+
+}
+
+.maps {
+    margin: 16px;
+    height: 95px;
+    width: 116px;
+}
+
+.waze {
+    margin: 16px;
+}
+
+.fotos1 {
+    margin-top: 430px;
+}
+.fotos{   
+    display: flex;
+    justify-content: center;
+    gap
+    width: 183px;
+    height: 291px;
+}
